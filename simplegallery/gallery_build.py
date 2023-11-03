@@ -4,7 +4,7 @@ import sys
 import json
 import jinja2
 from collections import OrderedDict
-import common as spg_common
+import simplegallery.common as spg_common
 from simplegallery.logic.gallery_logic import get_gallery_logic
 
 

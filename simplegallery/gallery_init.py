@@ -6,7 +6,7 @@ import glob
 import shutil
 import json
 from distutils.dir_util import copy_tree
-import common as spg_common
+import simplegallery.common as spg_common
 import simplegallery.logic.gallery_logic as gallery_logic
 
 
